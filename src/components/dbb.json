@@ -1,0 +1,21 @@
+{
+  "students": [
+    {
+      "id": "",
+      "name": "",
+      "marks": 0
+    },
+    {
+      "id": "",
+      "name": "",
+      "marks": 0,
+      "image": ""
+    },
+    {
+      "id": "1",
+      "name": "csk",
+      "marks": "10",
+      "image": "https://wallpapercave.com/wp/wp4166466.jpg"
+    }
+  ]
+}
